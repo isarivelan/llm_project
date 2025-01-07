@@ -1,0 +1,5 @@
+openai
+pandas
+streamlit
+backoff
+python-dotenv
